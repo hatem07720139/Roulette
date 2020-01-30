@@ -1,0 +1,194 @@
+.table-best {
+    width: 100%;
+}
+
+.table-best-cellule {
+    width: 9%;
+    height: 40px;
+    border: 3px solid white;
+    color: white;
+}
+
+.table-Roulette {
+    width: 100%;
+}
+
+.table-Roulette-cellule {
+    width: 6%;
+    height: 40px;
+    border: 3px solid white;
+    color: white;
+}
+
+.btn1 {
+    background-color: white;
+    border: 3px double blue;
+    color: blue;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.btn2 {
+    background-color: white;
+    border: 3px double rgb(255, 136, 0);
+    color: rgb(255, 136, 0);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.btn3 {
+    background-color: white;
+    border: 3px double rgb(255, 238, 0);
+    color: rgb(255, 238, 0);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.btn4 {
+    background-color: white;
+    border: 3px solid red;
+    color: red;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.btn5 {
+    background-color: white;
+    border: 3px solid rgb(19, 48, 2);
+    color: rgb(40, 122, 19);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.btn6 {
+    background-color: white;
+    border: 3px solid rgb(60, 4, 77);
+    color: rgb(60, 4, 77);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.btn7 {
+    background-color: white;
+    border: 3px solid rgb(255, 0, 212);
+    color: rgb(255, 0, 212);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.table-last {
+    width: 100%;
+    margin-top: 50px;
+    height: 600px;
+}
+
+.table-last-cellule {
+    width: 100%;
+    height: 30px;
+    border: 3px solid white;
+    color: white;
+    font-weight: bold;
+}
+
+.btn {
+    margin-top: 15px;
+    margin-left: 45px;
+}
+
+.btn-red {
+    background-color: red;
+}
+
+.btn-red:hover {
+    background-color: #f009;
+}
+
+.boutonMise:focus {
+    width: 70px;
+    height: 70px;
+    font-size: 22px;
+}
+
+.H1Mise {
+    margin-bottom: 35px;
+}
+
+.colMise {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.T-Roulette {
+    margin-top: 50px;
+    height: 600px;
+    width: 300px;
+    margin-left: auto;
+}
+
+.T-Roulette-Celule {
+    border: 3px solid white;
+    width: 10px;
+    height: 35px;
+    text-align: center;
+    position: relative;
+    color: white;
+    background-color: black;
+}
+
+.T-Roulette-Celule:hover {
+    background-color: #0009;
+}
+
+.T-Roulette-Celule-Red {
+    border: 3px solid white;
+    width: 10px;
+    height: 35px;
+    text-align: center;
+    position: relative;
+    color: white;
+    background-color: red;
+}
+
+.T-Roulette-Celule-Red:hover {
+    background-color: #f009;
+}
+
+.T-Roulette-Celule-green {
+    border: 3px solid white;
+    width: 10px;
+    height: 35px;
+    text-align: center;
+    position: relative;
+    color: white;
+    background-color: green;
+}
+
+.T-Roulette-Celule-green:hover {
+    background-color: #0f09;
+}
+
+.col-spin {
+    margin-bottom: 50px;
+    margin-top: 40px;
+}
